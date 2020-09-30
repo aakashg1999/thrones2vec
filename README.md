@@ -9,3 +9,5 @@ Instead of training your own Word2Vec, you can use an existing trained model fro
 Run this cell in the IPython Notebook:
 
 `w2v.Word2Vec.load(os.path.join("trained", "thrones2vec.w2v"))`
+
+
